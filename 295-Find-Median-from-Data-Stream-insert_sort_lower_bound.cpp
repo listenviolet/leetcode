@@ -29,3 +29,5 @@ public:
 
 // n & 1 == 1: odd
 // n & 1 == 0: even
+
+// Beats: 6.78%
